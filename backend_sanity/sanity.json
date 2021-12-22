@@ -1,10 +1,10 @@
 {
   "root": true,
   "project": {
-    "name": "."
+    "name": "ShareIt"
   },
   "api": {
-    "projectId": "60slbd68",
+    "projectId": "rw9f7lhc",
     "dataset": "production"
   },
   "plugins": [
